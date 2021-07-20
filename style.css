@@ -1,5 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:700,300);
-
+body{
+    background-color: aqua;
+}
 .main{
     height: 100vh;
 	display: flex;
@@ -8,7 +10,7 @@
 }
 .frame {
     margin: auto;
-    margin-top: 20%;
+    margin-top: 10%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
