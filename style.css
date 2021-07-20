@@ -9,18 +9,18 @@ body{
 	align-items: center;
 }
 .frame {
-    margin: auto;
-    margin-top: 10%;
+    	margin: auto;
+   	margin-top: 10%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-    width: 450px;
-    height: 450px;
-    border-radius: 10px;
+    	width: 450px;
+    	height: 450px;
+    	border-radius: 10px;
 	box-shadow: inset 3px 4px 4px 4px rgba(255, 252, 252, 0.842);
-    box-shadow: 3px 6px 7px 10px black;
-    background: rgb(0, 0, 0);
-    color: rgb(10, 9, 9);
+    	box-shadow: 3px 6px 7px 10px black;
+    	background: rgb(0, 0, 0);
+    	color: rgb(10, 9, 9);
 	font-family: 'Open Sans', Helvetica, sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
