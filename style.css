@@ -11,6 +11,8 @@ body{
 .frame {
     margin: auto;
     margin-top: 10%;
+    margin: auto;
+   	margin-top: 10%;
 	display: flex;
 	justify-content: center;
 	align-items: center;
