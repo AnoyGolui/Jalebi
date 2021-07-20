@@ -1,3 +1,3 @@
 # Jalebi
-See the Output using this : https://anoygolui.github.io/Jalebi/
+See the Output using this : 
 
